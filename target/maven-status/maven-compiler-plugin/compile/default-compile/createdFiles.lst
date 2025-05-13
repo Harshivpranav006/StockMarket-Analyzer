@@ -1,0 +1,11 @@
+com\stockmarket\service\StockService.class
+com\stockmarket\config\WebConfig.class
+com\stockmarket\service\NewsService.class
+com\stockmarket\config\WebSocketConfig.class
+com\stockmarket\model\NewsItem.class
+com\stockmarket\controller\CSVController.class
+com\stockmarket\StockMarketApplication.class
+com\stockmarket\csv\CSVProcessingService.class
+com\stockmarket\csv\CSVDataModel.class
+com\stockmarket\controller\StockController.class
+com\stockmarket\model\StockData.class
